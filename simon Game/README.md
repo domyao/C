@@ -1,3 +1,4 @@
+#Simon Game
 
 Final project for C programming course
 
