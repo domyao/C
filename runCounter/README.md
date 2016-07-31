@@ -1,3 +1,4 @@
+# Run Counter
 
 This program aworkd with a DAQ harware or simulator.
 
